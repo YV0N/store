@@ -30,6 +30,7 @@ open http://localhost:4200/
 
 ```sh
 cd <server-directory>
+npm install
 node server.js
 ```
 
